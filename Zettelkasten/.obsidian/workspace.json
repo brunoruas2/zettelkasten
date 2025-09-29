@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "06f7cb2460f31daa",
+    "type": "split",
+    "children": [
+      {
+        "id": "9767d70dfa542135",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a42db1e5c9e020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/202509290709 - teste.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202509290709 - teste"
+            }
+          },
+          {
+            "id": "77c62ccb33738668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_tags-database_.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_tags-database_"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97faae59d712897a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0eff6c2fddad1198",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a0ebd990f8464e3d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b8fc46c5164f676",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9182fa3fa6f7bdb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1c27e6594ad2e65",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb4ae1135ec194e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5cc44266434c6b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tags-database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tags-database"
+            }
+          },
+          {
+            "id": "3322b4892cbab711",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tags-database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tags-database"
+            }
+          },
+          {
+            "id": "bb0ae024a7474951",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6c48f3898781f71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tags-database.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tags-database"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "78a42db1e5c9e020",
+  "lastOpenFiles": [
+    "_tags-database_.md",
+    "zettelkasten/202509290709 - teste.md",
+    "tags_database/Untitled.md",
+    "tags_database",
+    "reference_database/REF - Tecnólogo PUC-MG - P1.md",
+    "_note template_.md",
+    "zettelkasten",
+    "reference_database",
+    "01K6AJ6QNG3F8C6W9P7HCRJ2FF.md",
+    "01K6AJ6NG68J95Q05N28WKX1Y7.md",
+    "teste.md",
+    "teste2.md",
+    "Welcome.md"
+  ]
+}
