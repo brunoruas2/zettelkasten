@@ -1,1 +1,1 @@
-Primeiro período do tecnólogo da PUC-MG
+Primeiro período do tecnólogo da PUC-MG.

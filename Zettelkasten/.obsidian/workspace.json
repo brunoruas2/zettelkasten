@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9767d70dfa542135",
+        "id": "99f3f4e5d8bc6e13",
         "type": "tabs",
         "children": [
           {
-            "id": "78a42db1e5c9e020",
+            "id": "cfda21b8453e412c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202509290709 - teste.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202509290709 - teste"
-            }
-          },
-          {
-            "id": "77c62ccb33738668",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_tags-database_.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "_tags-database_"
+              "title": "New tab"
             }
           }
         ]
@@ -183,14 +165,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "78a42db1e5c9e020",
+  "active": "cfda21b8453e412c",
   "lastOpenFiles": [
+    "reference_database/REF - Zettelkasten.de.md",
+    "zettelkasten/202509290648 - Zettelkasten.md",
+    "zettelkasten/202509300709 - Notas de Estrutura.md",
+    "_note template_.md",
+    "zettelkasten/202509300642 - Conectando Zettels.md",
+    "zettelkasten/202509300618 - Anatomia de um Zettel.md",
     "_tags-database_.md",
-    "zettelkasten/202509290709 - teste.md",
+    "reference_database/REF - Tecnólogo PUC-MG - P1.md",
+    "reference_database/REF - Bruno Ruas.md",
     "tags_database/Untitled.md",
     "tags_database",
-    "reference_database/REF - Tecnólogo PUC-MG - P1.md",
-    "_note template_.md",
     "zettelkasten",
     "reference_database",
     "01K6AJ6QNG3F8C6W9P7HCRJ2FF.md",

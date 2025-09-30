@@ -1,0 +1,1 @@
+Referência usada para meus pensamentos originais.

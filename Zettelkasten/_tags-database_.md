@@ -6,6 +6,7 @@
 # E
 # F
 # G
+#GerenciamentoConhecimento ( #KnowledgeManagement )
 # H
 # I
 # J
@@ -14,7 +15,7 @@
 # M
 # N
 # O
-- Organização de Computadores
+#OrganizaçãoComputadores
 # P
 # Q
 # R
@@ -26,3 +27,4 @@
 # X
 # Y
 # Z
+#Zettelkasten
