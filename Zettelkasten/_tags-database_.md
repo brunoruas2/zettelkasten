@@ -2,7 +2,9 @@
 # A
 # B
 # C
+#Csharp
 # D
+#Dotnet
 # E
 # F
 # G
@@ -17,6 +19,7 @@
 # O
 #OrganizaçãoComputadores
 # P
+#Programação
 # Q
 # R
 # S

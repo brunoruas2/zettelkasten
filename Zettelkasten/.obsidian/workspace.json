@@ -11,13 +11,46 @@
             "id": "cfda21b8453e412c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "reference_database/REF - Zettelkasten.de.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "REF - Zettelkasten.de"
+            }
+          },
+          {
+            "id": "855aa2f0d3e60785",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/202510010627 - Fundamentos do CSharp.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202510010627 - Fundamentos do CSharp"
+            }
+          },
+          {
+            "id": "1dc7bd21e40e3de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/202509290648 - Zettelkasten.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202509290648 - Zettelkasten"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Dotnet",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,16 +198,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "cfda21b8453e412c",
+  "active": "1dc7bd21e40e3de2",
   "lastOpenFiles": [
-    "reference_database/REF - Zettelkasten.de.md",
-    "zettelkasten/202509290648 - Zettelkasten.md",
-    "zettelkasten/202509300709 - Notas de Estrutura.md",
+    "zettelkasten/202510010722 - Como navegar pelos zettels.md",
     "_note template_.md",
+    "zettelkasten/202510010714 - Executando csharp.md",
+    "zettelkasten/202510010627 - Fundamentos do CSharp.md",
+    "reference_database/REF - Zettelkasten.de.md",
+    "reference_database/REF - Balta.io.md",
+    "zettelkasten/202509290648 - Zettelkasten.md",
+    "zettelkasten/202510010705 - .NET Standard.md",
+    "zettelkasten/202510010649 - Framework.md",
+    "zettelkasten/202510010651 - .NET Framework.md",
+    "_tags-database_.md",
+    "reference_database/REF - Tecnólogo PUC-MG.md",
+    "zettelkasten/202509300709 - Notas de Estrutura.md",
     "zettelkasten/202509300642 - Conectando Zettels.md",
     "zettelkasten/202509300618 - Anatomia de um Zettel.md",
-    "_tags-database_.md",
-    "reference_database/REF - Tecnólogo PUC-MG - P1.md",
     "reference_database/REF - Bruno Ruas.md",
     "tags_database/Untitled.md",
     "tags_database",

@@ -1,1 +1,0 @@
-Primeiro período do tecnólogo da PUC-MG.
