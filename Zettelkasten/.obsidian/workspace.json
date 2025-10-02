@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference_database/REF - Zettelkasten.de.md",
+                "file": "reference_database/REF - Balta.io.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "REF - Zettelkasten.de"
+              "title": "REF - Balta.io"
             }
           },
           {
-            "id": "855aa2f0d3e60785",
+            "id": "3ad2595a9ce51e30",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +36,16 @@
             }
           },
           {
-            "id": "1dc7bd21e40e3de2",
+            "id": "a2521f357e571d3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202509290648 - Zettelkasten.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202509290648 - Zettelkasten"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +64,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -198,23 +193,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "1dc7bd21e40e3de2",
+  "active": "cfda21b8453e412c",
   "lastOpenFiles": [
-    "zettelkasten/202510010722 - Como navegar pelos zettels.md",
-    "_note template_.md",
-    "zettelkasten/202510010714 - Executando csharp.md",
     "zettelkasten/202510010627 - Fundamentos do CSharp.md",
-    "reference_database/REF - Zettelkasten.de.md",
+    "zettelkasten/202510020623 - Tipos de Projeto .NET.md",
+    "zettelkasten/202510020643 - Estrutura do App .NET.md",
     "reference_database/REF - Balta.io.md",
-    "zettelkasten/202509290648 - Zettelkasten.md",
+    "zettelkasten/202510020710 - Boas Práticas Csharp.md",
+    "zettelkasten/202510020649 - Debug .NET.md",
+    "zettelkasten/202510010714 - Executando csharp.md",
+    "_note template_.md",
+    "zettelkasten/202510020618 - .NET CLI.md",
     "zettelkasten/202510010705 - .NET Standard.md",
-    "zettelkasten/202510010649 - Framework.md",
     "zettelkasten/202510010651 - .NET Framework.md",
+    "zettelkasten/202510010649 - Framework.md",
+    "zettelkasten/202509290648 - Zettelkasten.md",
+    "zettelkasten/202509300618 - Anatomia de um Zettel.md",
+    "zettelkasten/202509300642 - Conectando Zettels.md",
+    "zettelkasten/202509300709 - Notas de Estrutura.md",
+    "reference_database/REF - Zettelkasten.de.md",
+    "zettelkasten/202510010722 - Como navegar pelos zettels.md",
     "_tags-database_.md",
     "reference_database/REF - Tecnólogo PUC-MG.md",
-    "zettelkasten/202509300709 - Notas de Estrutura.md",
-    "zettelkasten/202509300642 - Conectando Zettels.md",
-    "zettelkasten/202509300618 - Anatomia de um Zettel.md",
     "reference_database/REF - Bruno Ruas.md",
     "tags_database/Untitled.md",
     "tags_database",
@@ -223,7 +223,6 @@
     "01K6AJ6QNG3F8C6W9P7HCRJ2FF.md",
     "01K6AJ6NG68J95Q05N28WKX1Y7.md",
     "teste.md",
-    "teste2.md",
-    "Welcome.md"
+    "teste2.md"
   ]
 }

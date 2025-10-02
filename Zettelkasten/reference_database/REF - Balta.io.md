@@ -1,5 +1,6 @@
 https://balta.io/
 
+Próxima aula: 05A05 - Variáveis
 
 .NET Developr Fundamentals
 	Fundamentos do c# [[202510010627 - Fundamentos do CSharp]]
