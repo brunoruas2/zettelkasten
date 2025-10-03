@@ -5,7 +5,7 @@
 #Csharp #Dotnet 
 
 # Body
-Hub note do módulo 1 do curso do balta.io
+Hub note do estudo sobre c#
 
 [[202510010649 - Framework]]
 [[202510010651 - .NET Framework]]

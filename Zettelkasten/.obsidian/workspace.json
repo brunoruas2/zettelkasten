@@ -13,36 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reference_database/REF - Balta.io.md",
+                "file": "zettelkasten/202510030654 - OOP.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "REF - Balta.io"
-            }
-          },
-          {
-            "id": "3ad2595a9ce51e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202510010627 - Fundamentos do CSharp.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202510010627 - Fundamentos do CSharp"
-            }
-          },
-          {
-            "id": "a2521f357e571d3b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "202510030654 - OOP"
             }
           }
         ]
@@ -195,34 +171,35 @@
   },
   "active": "cfda21b8453e412c",
   "lastOpenFiles": [
+    "zettelkasten/202510030700 - Paradigmas de Programação.md",
+    "_src/_tags-database_.md",
+    "_src/_note template_.md",
+    "zettelkasten/202509290648 - Zettelkasten.md",
+    "zettelkasten/202510030654 - OOP.md",
+    "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "_src",
+    "zettelkasten/202510030623 - Arquiteto de Software.md",
+    "zettelkasten/202509300618 - Anatomia de um Zettel.md",
     "zettelkasten/202510010627 - Fundamentos do CSharp.md",
+    "reference_database/REF - Balta.io.md",
     "zettelkasten/202510020623 - Tipos de Projeto .NET.md",
     "zettelkasten/202510020643 - Estrutura do App .NET.md",
-    "reference_database/REF - Balta.io.md",
     "zettelkasten/202510020710 - Boas Práticas Csharp.md",
     "zettelkasten/202510020649 - Debug .NET.md",
     "zettelkasten/202510010714 - Executando csharp.md",
-    "_note template_.md",
     "zettelkasten/202510020618 - .NET CLI.md",
     "zettelkasten/202510010705 - .NET Standard.md",
     "zettelkasten/202510010651 - .NET Framework.md",
     "zettelkasten/202510010649 - Framework.md",
-    "zettelkasten/202509290648 - Zettelkasten.md",
-    "zettelkasten/202509300618 - Anatomia de um Zettel.md",
     "zettelkasten/202509300642 - Conectando Zettels.md",
     "zettelkasten/202509300709 - Notas de Estrutura.md",
     "reference_database/REF - Zettelkasten.de.md",
     "zettelkasten/202510010722 - Como navegar pelos zettels.md",
-    "_tags-database_.md",
     "reference_database/REF - Tecnólogo PUC-MG.md",
     "reference_database/REF - Bruno Ruas.md",
     "tags_database/Untitled.md",
     "tags_database",
     "zettelkasten",
-    "reference_database",
-    "01K6AJ6QNG3F8C6W9P7HCRJ2FF.md",
-    "01K6AJ6NG68J95Q05N28WKX1Y7.md",
-    "teste.md",
-    "teste2.md"
+    "reference_database"
   ]
 }

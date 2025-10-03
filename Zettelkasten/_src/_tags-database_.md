@@ -1,5 +1,6 @@
 <!-- repositório das tags para evitar duplicidade -->
 # A
+#ArquiteturaSoftware ( #SoftwareArchitecture )
 # B
 # C
 #Csharp
@@ -18,6 +19,7 @@
 # N
 # O
 #OrganizaçãoComputadores
+#OOP
 # P
 #Programação
 # Q
