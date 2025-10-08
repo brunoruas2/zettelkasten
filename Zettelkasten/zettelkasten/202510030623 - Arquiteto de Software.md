@@ -7,9 +7,6 @@
 # Body
 Segundo a ISO/IEEE 42010-2011, arquitetura de software é a organização de um sistema em **componentes**, **relacionamentos** com o ambiente e os princípios de design e evolução.
 
-Fontes
-TOGAF, ISO/IEEE 42010, IASA e The Architecture Journal da MS.
-
 Histórico
 Está mudando de métodos waterfall em monolitos para NoOps com Serveless em cloud.
 
@@ -21,3 +18,7 @@ Hub note sobre Arquitetura de Software
 
 # Footer / Reference
 [[REF - Desenvolvedor.io - Curso Arquitetura]]
+TOGAF
+ISO/IEEE 42010
+IASA
+The Architecture Journal da Microsoft

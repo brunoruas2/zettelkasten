@@ -7,23 +7,7 @@
 # Body
 [[202510030654 - OOP]][[202510070712 - OOP - Herança e Composição]]
 
-Basicamente, uma herança só é uma boa ideia se realmente tivermos uma relação de subconjunto entre classes. Só faz sentido herdar se realmente a classe filha for do tipo da classe pai.
-
-Mas, na vida real, a maioria das vezes, nós não temos relações com tanta certeza. Para isso podemos usar uma classe dentro da outra sem colocar uma relação de herança (o que permite mais flexibilidade). Chamamos isso de composição.
-
-```csharp
-// heranca simples
-public class ClasseFilha : ClassePai
-{
-	public string paramString {get;set;}
-}
-// composicao
-public class ClasseImplementacao
-{
-	public ClassePai classePai {get;set;} // trouxe a classe pai inteira
-	public string paramString {get;set;}
-}
-```
+Aqui tem um exemplo mais específico do porquê composição é melhor que herança. Para isso vamos fazer uso de composição com interface.
 
 
 
