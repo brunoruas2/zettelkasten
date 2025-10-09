@@ -13,8 +13,8 @@ Existem 4 conceitos que se relacionam ao acesso à métodos de classes.
 
 1. Herança 
 2. Composição
-	1. Interface <- Melhor abordagem
-	2. Objeto Concreto
+	1. Por Interface <- Melhor abordagem
+	2. Por Objeto Concreto
 3. Implementação direta 
 
 Esses conceitos se complementam e formam a base do polimorfismo e da reutilização de código.
@@ -54,10 +54,14 @@ public class Composicao
     }
 }
 
-// Composicao via interface
+// Composicao via interface (melhor abordagem)
 public class Interface
 {
     private readonly IClassePai _classePai;
     public Interface(IClassePai classePai) { _classePai = classePai; }
     public void MetodoInterface() { _classePai.MetodoPai(); }
 }
+```
+# Footer / Reference
+[[REF - Desenvolvedor.io - Curso Arquitetura]]
+[[REF - Bruno Ruas]]

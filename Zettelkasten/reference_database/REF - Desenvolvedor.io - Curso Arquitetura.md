@@ -1,10 +1,10 @@
 https://desenvolvedor.io/formacao/arquiteto-de-software
 
-Formação Arquiteto de Software [[202510030623 - Arquiteto de Software]]
+Formação Arquiteto de Software [[202510030623 - Arquitetura de Software]]
 
 Programação Profissional com Clean Code
 	OOP [[202510030654 - OOP]]
-	SOLID
+	SOLID [[202510090642 - SOLID]]
 	Dependency Injection
 	Clean Code
 	Design Patterns

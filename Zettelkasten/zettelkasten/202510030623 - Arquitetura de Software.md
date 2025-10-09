@@ -15,6 +15,7 @@ Saber muito de programação e componentização. Dominar plataforma de desenvol
 
 Hub note sobre Arquitetura de Software
 [[202510030654 - OOP]]
+[[202510090642 - SOLID]]
 
 # Footer / Reference
 [[REF - Desenvolvedor.io - Curso Arquitetura]]

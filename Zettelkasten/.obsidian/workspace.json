@@ -22,21 +22,35 @@
             }
           },
           {
-            "id": "fb46c06e3899aefc",
+            "id": "d2a3fa74b68c00b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510030623 - Arquiteto de Software.md",
+                "file": "zettelkasten/202510090642 - SOLID.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202510030623 - Arquiteto de Software"
+              "title": "202510090642 - SOLID"
             }
           },
           {
-            "id": "9ee18d093c1de253",
+            "id": "2bb74f9405002260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/202510090651 - SOLID - Single Responsibility Principle (SRP).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "202510090651 - SOLID - Single Responsibility Principle (SRP)"
+            }
+          },
+          {
+            "id": "73163842a7319d2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,37 +62,9 @@
               "icon": "lucide-file",
               "title": "202510030654 - OOP"
             }
-          },
-          {
-            "id": "4fbb0023cc221e0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202510080627 - OOP - Vias de acesso à métodos.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202510080627 - OOP - Vias de acesso à métodos"
-            }
-          },
-          {
-            "id": "9c4982300c8fecbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202510070720 - OOP - Exemplo Composição.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202510070720 - OOP - Exemplo Composição"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,35 +212,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "9c4982300c8fecbb",
+  "active": "2bb74f9405002260",
   "lastOpenFiles": [
-    "zettelkasten/202510080627 - OOP - Vias de acesso à métodos.md",
-    "zettelkasten/202510030654 - OOP.md",
-    "zettelkasten/202510070652 - OOP - Interface e Implementação.md",
-    "zettelkasten/202510070720 - OOP - Exemplo Composição.md",
-    "zettelkasten/202510070712 - OOP - Herança e Composição.md",
-    "zettelkasten/202510030623 - Arquiteto de Software.md",
+    "zettelkasten/202510090642 - SOLID.md",
     "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "zettelkasten/202510030654 - OOP.md",
+    "zettelkasten/202510030623 - Arquitetura de Software.md",
+    "zettelkasten/202510080627 - OOP - Vias de acesso à métodos.md",
+    "zettelkasten/202510090651 - SOLID - Single Responsibility Principle (SRP).md",
+    "zettelkasten/202510070712 - OOP - Herança e Composição.md",
+    "_src/_tags-database_.md",
+    "_src/_note template_.md",
+    "zettelkasten/202510070720 - OOP - Exemplo Composição.md",
+    "zettelkasten/202510070631 - OOP - Encapsulamento.md",
+    "zettelkasten/202510060701 - OOP - Abstração.md",
+    "zettelkasten/202510070652 - OOP - Interface e Implementação.md",
     "zettelkasten/202510030700 - Paradigmas de Programação.md",
     "zettelkasten/202510060629 - História OOP.md",
-    "_src/_note template_.md",
-    "zettelkasten/202510060701 - OOP - Abstração.md",
     "zettelkasten/202510070613- OOP - Polimorfismo.md",
-    "zettelkasten/202510070631 - OOP - Encapsulamento.md",
     "zettelkasten/202510070636 - OOP - Modificadores de Acesso.md",
     "zettelkasten/202510020710 - Boas Práticas Csharp.md",
     "zettelkasten/202510060649 - OOP - Herança.md",
     "zettelkasten/202510060615 - OOP - Classe e Objeto.md",
     "zettelkasten/202510060607 - OOP - Estado e Comportamento.md",
-    "_src/_tags-database_.md",
     "zettelkasten/202509290648 - Zettelkasten.md",
     "_src",
     "zettelkasten/202509300618 - Anatomia de um Zettel.md",
     "zettelkasten/202510010627 - Fundamentos do CSharp.md",
     "reference_database/REF - Balta.io.md",
     "zettelkasten/202510020623 - Tipos de Projeto .NET.md",
-    "zettelkasten/202510020643 - Estrutura do App .NET.md",
-    "zettelkasten/202510020649 - Debug .NET.md",
     "tags_database",
     "zettelkasten",
     "reference_database"
