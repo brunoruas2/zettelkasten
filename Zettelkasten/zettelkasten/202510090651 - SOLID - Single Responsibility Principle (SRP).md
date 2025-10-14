@@ -5,7 +5,7 @@
 #SOLID
 
 # Body
-Uma classe só deve ter 1 motivo para ser modificada, ou seja, deve ter apenas 1 responsabilidade. Até pode ter mais de 1 método mas sempre relacionados à uma única responsabilidade.
+> Uma classe só deve ter 1 motivo para ser modificada, ou seja, deve ter apenas 1 responsabilidade.
 
 Aqui vale um disclaimer: Existem classes de serviço que vão atuar em várias frentes mas **nunca** com a implementação dentro delas. Por exemplo, um service de cliente pode ter uma parte que salva o cliente no banco usando o repositório, envia um email usando um service de email confirmando o salvamento e etc, mas a implementação não está no service em si.
 
