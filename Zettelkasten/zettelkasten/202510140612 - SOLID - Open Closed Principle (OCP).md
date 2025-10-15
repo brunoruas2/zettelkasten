@@ -32,13 +32,8 @@ public class BonusService
 
 ```csharp
 // correcao do OCP por heranca e interface
-// Interface que define o contrato
-public interface IFuncionario
-{
-    double CalcularBonus();
-}
+public interface IFuncionario { double CalcularBonus(); }
 
-// Implementações específicas
 public class FuncionarioComum : IFuncionario
 {
     public double Salario { get; set; }
@@ -55,7 +50,6 @@ public class Gerente : IFuncionario
     public double CalcularBonus() => Salario * 0.2;
 }
 
-// Serviço que usa polimorfismo
 public class BonusService
 {
     public double Calcular(IFuncionario funcionario)

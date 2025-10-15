@@ -8,9 +8,9 @@
 Em C# podemos usar técnicas para expandir a capacidade de uma classe inserindo métodos de maneira indireta por meio de uma **sintaxe açucarada** e não composição nem herança.
 
 ```csharp
-// antes do c# 14
 namespace CustomExtensionMethods;
 
+// antes do c# 14
 public static class MyExtensions
 {
     public static int WordCount(this string str) =>
