@@ -11,11 +11,6 @@ Aqui vale um disclaimer: Existem classes de serviço que vão atuar em várias f
 
 Exemplo de violação
 ```csharp
-using System;
-using System.Data;
-using System.Data.SqlClient;
-using System.Net.Mail;
-
 public class classeErroSrp
 {
     public string Nome { get; set; }
@@ -24,9 +19,7 @@ public class classeErroSrp
 	// a propria classe esta interagindo com o banco
     public string AdicionaNaBase()
     {
-        if (!Email.Contains("@"))
-            return "Email inválido";
-
+        if (!Email.Contains("@")) return "Email inválido";
         using (var conn = new SqlConnection())
         {
             var cmd = new SqlCommand();
@@ -47,9 +40,32 @@ public class classeErroSrp
     }
     
     // a propria classe envia email
-    public string EnviaEmail()
+    public string EnviaEmail() { // logica qualquer de envio de email }
+}
+```
+
+Correção do princípio
+```csharp
+public class ClasseDominio
+{
+    public string Nome { get; set; }
+    public string Email { get; set; }
+}
+
+public class ServicoEmail(ClasseDominio cliente)
+{
+    public void EnviaEmail() { // logica qualquer de envio de email }
+}
+
+public class Repositorio(ClasseDominio cliente)
+{
+    public string AdicionaNaBase()
     {
-	    // logica qualquer de envio de email
+        if (!cliente.Email.Contains("@")) return "Email inválido";
+
+        using (var conn = new SqlConnection()) { // logica do save }
+
+        return "Adicionado na base!";
     }
 }
 ```

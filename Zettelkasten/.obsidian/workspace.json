@@ -22,49 +22,34 @@
             }
           },
           {
-            "id": "17b34e4ddd3592b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202510090642 - SOLID.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202510090642 - SOLID"
-            }
-          },
-          {
-            "id": "47378507a4596a0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "202510140612 - SOLID - Open Closed Principle (OCP)"
-            }
-          },
-          {
             "id": "2bb74f9405002260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510150620 - SOLID - Liskov Substituion Principle.md",
+                "file": "zettelkasten/202510170652 - SOLID - Dependency Inversion Principle.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202510150620 - SOLID - Liskov Substituion Principle"
+              "title": "202510170652 - SOLID - Dependency Inversion Principle"
+            }
+          },
+          {
+            "id": "a09dddc81fd928a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_src/_tags-database_.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "_tags-database_"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Dotnet",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +102,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -212,34 +198,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "2bb74f9405002260",
+  "active": "8928829a36bb590d",
   "lastOpenFiles": [
-    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
-    "zettelkasten/202510090642 - SOLID.md",
-    "zettelkasten/202510090651 - SOLID - Single Responsibility Principle (SRP).md",
-    "zettelkasten/202510150620 - SOLID - Liskov Substituion Principle.md",
-    "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
-    "zettelkasten/202510030654 - OOP.md",
-    "zettelkasten/202510140621 - Csharp - Extension Methods.md",
-    "Untitled.base",
-    "_src/_note template_.md",
+    "_src/_tags-database_.md",
+    "zettelkasten/202510070712 - OOP - Herança e Composição.md",
+    "zettelkasten/202510070652 - OOP - Interface e Implementação.md",
+    "zettelkasten/202510070636 - OOP - Modificadores de Acesso.md",
+    "zettelkasten/202510070631 - OOP - Encapsulamento.md",
+    "zettelkasten/202510070613- OOP - Polimorfismo.md",
+    "zettelkasten/202510060701 - OOP - Abstração.md",
+    "zettelkasten/202510060649 - OOP - Herança.md",
     "zettelkasten/202510060615 - OOP - Classe e Objeto.md",
     "zettelkasten/202510060607 - OOP - Estado e Comportamento.md",
     "zettelkasten/202510030700 - Paradigmas de Programação.md",
+    "zettelkasten/202510090642 - SOLID.md",
+    "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "zettelkasten/202510170652 - SOLID - Dependency Inversion Principle.md",
+    "zettelkasten/202510080627 - OOP - Vias de acesso à métodos.md",
+    "zettelkasten/202510150620 - SOLID - Liskov Substitution Principle.md",
+    "zettelkasten/202510090651 - SOLID - Single Responsibility Principle (SRP).md",
+    "zettelkasten/202510170631 - SOLID - Interface Segregation Principle.md",
+    "zettelkasten/202510140621 - Csharp - Extension Methods.md",
+    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
+    "_src/_note template_.md",
+    "zettelkasten/202510030654 - OOP.md",
+    "Untitled.base",
     "zettelkasten/202510020623 - Tipos de Projeto .NET.md",
     "zettelkasten/202510020643 - Estrutura do App .NET.md",
     "zettelkasten/202510020649 - Debug .NET.md",
     "zettelkasten/202510020710 - Boas Práticas Csharp.md",
-    "_src/_tags-database_.md",
-    "zettelkasten/202510030623 - Arquitetura de Software.md",
-    "zettelkasten/202510080627 - OOP - Vias de acesso à métodos.md",
-    "zettelkasten/202510070712 - OOP - Herança e Composição.md",
-    "zettelkasten/202510070720 - OOP - Exemplo Composição.md",
-    "zettelkasten/202510070631 - OOP - Encapsulamento.md",
-    "zettelkasten/202510060701 - OOP - Abstração.md",
-    "zettelkasten/202510070652 - OOP - Interface e Implementação.md",
-    "zettelkasten/202510060629 - História OOP.md",
-    "zettelkasten/202510070613- OOP - Polimorfismo.md",
     "_src",
     "tags_database",
     "zettelkasten",
