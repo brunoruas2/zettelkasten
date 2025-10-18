@@ -28,7 +28,7 @@ public class SubClasse : SuperClasse {
     // override do método original
     public override void Mostra() {
         Console.WriteLine("-------");
-        base.mostra(); // função original
+        base.Mostra(); // função original
         Console.WriteLine("-------");
         Console.WriteLine("Mostra Estendida");
         Console.WriteLine("-------")

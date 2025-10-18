@@ -5,6 +5,8 @@
 #SOLID 
 
 # Body
+[[202510090642 - SOLID]]
+
 > Clientes (aka Classes) não devem ser forçados a depender de métodos que não usam.
 
 > É melhor ter muitas interfaces específicas do que uma única interface grande.

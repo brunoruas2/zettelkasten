@@ -5,6 +5,8 @@
 #SOLID 
 
 # Body
+[[202510090642 - SOLID]]
+
 > Módulos de alto nível não devem depender de módulo de baixo nível. Ambos devem depender de abstrações. E abstrações não devem depender de detalhes mas detalhes devem depender de abstrações.
 
 > Dependa sempre de uma abstração e não de uma implementação.

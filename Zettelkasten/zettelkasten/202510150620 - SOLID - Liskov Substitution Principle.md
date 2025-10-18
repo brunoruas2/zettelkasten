@@ -5,6 +5,8 @@
 #SOLID 
 
 # Body
+[[202510090642 - SOLID]]
+
 > Versão clássica 88 - Se, para cada objeto $o_1$ do tipo $S$, existir um objeto $o_2$ do tipo T de modo que para todos os programas $P$ definidos em termo de $T$ o comportamento de $P$ é inalterado quando substituímos $o_1$ por $o_2$. Então, $S$ é um subtipo de $T$.
 
 > Versão mais facil 94 - Seja $\phi(x)$ alguma propriedade provável de objetos $x$ do tipo $T$. Então, deve ser verdade que $\phi(y)$ para todos os objetos $y$ do tipo $S$ quando $S$ for um subtipo de $T$.

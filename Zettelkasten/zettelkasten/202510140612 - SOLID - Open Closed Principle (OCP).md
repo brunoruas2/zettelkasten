@@ -5,6 +5,8 @@
 #SOLID 
 
 # Body
+[[202510090642 - SOLID]]
+
 > Uma classe deve estar fechada para modificação e aberta para extensão.
 
 A ideia aqui é que as classes evoluam apenas no sentindo de aumentar a capacidade das classes por meio de extensões sem alterar o que já está implementado (o que pode quebrar várias partes do código).

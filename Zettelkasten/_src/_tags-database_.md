@@ -12,6 +12,7 @@
 #GerenciamentoConhecimento ( #KnowledgeManagement )
 # H
 # I
+#InjecaoDeDependencia ( #DependencyInjection)
 # J
 # K
 # L

@@ -11,6 +11,8 @@ Classe é uma representação de uma entidade que possui estados e comportamento
 
 Objeto é a instanciação (ou seja, alocação em memória) de uma classe.
 
+Em outras palavras, classes são descrições de objetos que serão criados e usados em tempo de execução.
+
 ```csharp
 
 // classe
