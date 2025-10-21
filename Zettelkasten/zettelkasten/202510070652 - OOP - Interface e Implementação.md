@@ -5,7 +5,7 @@
 #OOP 
 
 # Body
-[[202510030654 - OOP]][[202510170631 - SOLID - Interface Segregation Principle]][[202510170652 - SOLID - Dependency Inversion Principle]]
+[[202510030654 - OOP]][[202510170631 - SOLID - Interface Segregation Principle (ISP)]][[202510170652 - SOLID - Dependency Inversion Principle (DIP)]]
 
 Uma interface define contratos (parecido com uma classe abstrata) mas sem definir nenhuma implementação. A principal diferença é que a classe abstrata **pode** implementar algo se ela quiser, enquanto uma interface não tem nada de implementação além do nome do método, o retorno e os params das funções.
 

@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "7f841cc104311e19",
+            "id": "ff05c7d88bf2237c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510200648 - DI - Ciclos de Vida.md",
+                "file": "zettelkasten/202510210651 - DI - N Classes 1 Interface.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202510200648 - DI - Ciclos de Vida"
+              "title": "202510210651 - DI - N Classes 1 Interface"
             }
           }
         ],
@@ -82,8 +82,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "TODO ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 374.5
   },
   "right": {
     "id": "c1c27e6594ad2e65",
@@ -200,14 +200,23 @@
   },
   "active": "f2ef86b55a531bbd",
   "lastOpenFiles": [
+    "zettelkasten/202510090642 - SOLID.md",
+    "zettelkasten/202510150620 - SOLID - Liskov Substitution Principle (LSP).md",
+    "zettelkasten/202510170631 - SOLID - Interface Segregation Principle (ISP).md",
+    "zettelkasten/202510170652 - SOLID - Dependency Inversion Principle (DIP).md",
+    "zettelkasten/202510210651 - DI - N Classes 1 Interface.md",
+    "zettelkasten/202510210641 - DI - Service Locator.md",
     "zettelkasten/202510181406 - DI - Injeção de Dependência.md",
     "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "zettelkasten/202510210635 - DI - Property Injection.md",
+    "_src/_note template_.md",
+    "zettelkasten/202510210622 - DI - Registro de Generics.md",
     "zettelkasten/202510200648 - DI - Ciclos de Vida.md",
     "zettelkasten/202510200611 - DI - Exemplo Real.md",
-    "_src/_note template_.md",
-    "zettelkasten/202510090642 - SOLID.md",
-    "zettelkasten/202510170652 - SOLID - Dependency Inversion Principle.md",
-    "zettelkasten/202510170631 - SOLID - Interface Segregation Principle.md",
+    "zettelkasten/202510140621 - Csharp - Extension Methods.md",
+    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
+    "zettelkasten/202510090651 - SOLID - Single Responsibility Principle (SRP).md",
+    "_src/_TODO_.md",
     "zettelkasten/202510030654 - OOP.md",
     "zettelkasten/202510070652 - OOP - Interface e Implementação.md",
     "zettelkasten/202510080627 - OOP - Vias de acesso à métodos.md",
@@ -217,15 +226,6 @@
     "zettelkasten/202510060701 - OOP - Abstração.md",
     "zettelkasten/202510060649 - OOP - Herança.md",
     "zettelkasten/202510070712 - OOP - Herança e Composição.md",
-    "zettelkasten/202510070720 - OOP - Exemplo Composição.md",
-    "zettelkasten/202510060607 - OOP - Estado e Comportamento.md",
-    "zettelkasten/202510060615 - OOP - Classe e Objeto.md",
-    "zettelkasten/202510060629 - História OOP.md",
-    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
-    "zettelkasten/202510090651 - SOLID - Single Responsibility Principle (SRP).md",
-    "zettelkasten/202510150620 - SOLID - Liskov Substitution Principle.md",
-    "zettelkasten/202510140621 - Csharp - Extension Methods.md",
-    "_src/_tags-database_.md",
     "Untitled.base",
     "_src",
     "tags_database",

@@ -5,6 +5,8 @@
 #Csharp 
 
 # Body
+[[202510140612 - SOLID - Open Closed Principle (OCP)]]
+
 Em C# podemos usar técnicas para expandir a capacidade de uma classe inserindo métodos de maneira indireta por meio de uma **sintaxe açucarada** e não composição nem herança.
 
 ```csharp
