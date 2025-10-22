@@ -22,31 +22,31 @@
             }
           },
           {
-            "id": "ff05c7d88bf2237c",
+            "id": "b7a8d1ab5a90abd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510181406 - DI - Injeção de Dependência.md",
+                "file": "zettelkasten/202510220620 - Clean Code.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202510181406 - DI - Injeção de Dependência"
+              "title": "202510220620 - Clean Code"
             }
           },
           {
-            "id": "f2ef86b55a531bbd",
+            "id": "a64fc9c570fbb39d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510210651 - DI - N Classes 1 Interface.md",
+                "file": "zettelkasten/202510220710 - Clean Code - Tratamento de Erros.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "202510210651 - DI - N Classes 1 Interface"
+              "title": "202510220710 - Clean Code - Tratamento de Erros"
             }
           }
         ],
@@ -198,34 +198,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "f2ef86b55a531bbd",
+  "active": "a64fc9c570fbb39d",
   "lastOpenFiles": [
+    "zettelkasten/202510220620 - Clean Code.md",
+    "zettelkasten/202510220710 - Clean Code - Tratamento de Erros.md",
+    "zettelkasten/202510220658 - Clean Code - Boas práticas.md",
+    "zettelkasten/202510220706 - Clean Code - Comentários no Código.md",
+    "zettelkasten/202510220628 - Clean Code - Desculpas e Verdades.md",
+    "zettelkasten/202510220646 - Clean Code - Como medir um bom código.md",
+    "zettelkasten/202510220657 - Clean Code - Como escrever bons nomes.md",
     "zettelkasten/202510090642 - SOLID.md",
-    "zettelkasten/202510150620 - SOLID - Liskov Substitution Principle (LSP).md",
-    "zettelkasten/202510170631 - SOLID - Interface Segregation Principle (ISP).md",
-    "zettelkasten/202510170652 - SOLID - Dependency Inversion Principle (DIP).md",
+    "_src/_tags-database_.md",
+    "_src/_TODO_.md",
+    "_src/_note template_.md",
     "zettelkasten/202510210651 - DI - N Classes 1 Interface.md",
-    "zettelkasten/202510210641 - DI - Service Locator.md",
     "zettelkasten/202510181406 - DI - Injeção de Dependência.md",
     "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
+    "zettelkasten/202510170652 - SOLID - Dependency Inversion Principle (DIP).md",
+    "zettelkasten/202510150620 - SOLID - Liskov Substitution Principle (LSP).md",
+    "zettelkasten/202510170631 - SOLID - Interface Segregation Principle (ISP).md",
+    "zettelkasten/202510030654 - OOP.md",
+    "zettelkasten/202510030623 - Arquitetura de Software.md",
+    "zettelkasten/202510210641 - DI - Service Locator.md",
     "zettelkasten/202510210635 - DI - Property Injection.md",
-    "_src/_note template_.md",
     "zettelkasten/202510210622 - DI - Registro de Generics.md",
     "zettelkasten/202510200648 - DI - Ciclos de Vida.md",
     "zettelkasten/202510200611 - DI - Exemplo Real.md",
     "zettelkasten/202510140621 - Csharp - Extension Methods.md",
-    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
-    "zettelkasten/202510090651 - SOLID - Single Responsibility Principle (SRP).md",
-    "_src/_TODO_.md",
-    "zettelkasten/202510030654 - OOP.md",
-    "zettelkasten/202510070652 - OOP - Interface e Implementação.md",
-    "zettelkasten/202510080627 - OOP - Vias de acesso à métodos.md",
-    "zettelkasten/202510070636 - OOP - Modificadores de Acesso.md",
-    "zettelkasten/202510070631 - OOP - Encapsulamento.md",
-    "zettelkasten/202510070613- OOP - Polimorfismo.md",
-    "zettelkasten/202510060701 - OOP - Abstração.md",
-    "zettelkasten/202510060649 - OOP - Herança.md",
-    "zettelkasten/202510070712 - OOP - Herança e Composição.md",
     "Untitled.base",
     "_src",
     "tags_database",

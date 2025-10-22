@@ -14,7 +14,7 @@ Ciclo de Vida [[202510200648 - DI - Ciclos de Vida]]
 Generics [[202510210622 - DI - Registro de Generics]]
 From Services [[202510210635 - DI - Property Injection]]
 Service Locator [[202510210641 - DI - Service Locator]]
-Múltiplas Implementações
+Múltiplas Implementações [[202510210651 - DI - N Classes 1 Interface]]
 
 # Footer / Reference
 [[REF - Desenvolvedor.io - Curso Arquitetura]]
