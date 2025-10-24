@@ -15,42 +15,70 @@
               "state": {
                 "file": "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "REF - Desenvolvedor.io - Curso Arquitetura"
             }
           },
           {
-            "id": "b7a8d1ab5a90abd5",
+            "id": "b024cc600d33ccd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510220620 - Clean Code.md",
+                "file": "zettelkasten/202510090642 - SOLID.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "202510220620 - Clean Code"
+              "title": "202510090642 - SOLID"
             }
           },
           {
-            "id": "a64fc9c570fbb39d",
+            "id": "78a37bb041156bb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510220710 - Clean Code - Tratamento de Erros.md",
+                "file": "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "202510220710 - Clean Code - Tratamento de Erros"
+              "title": "202510140612 - SOLID - Open Closed Principle (OCP)"
+            }
+          },
+          {
+            "id": "1981780d4e6e1610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/202510230627 - Design Patterns.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510230627 - Design Patterns"
+            }
+          },
+          {
+            "id": "0928b759240833bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/202510240635 - Patterns - Abstract Factory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510240635 - Patterns - Abstract Factory"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,8 +226,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "a64fc9c570fbb39d",
+  "active": "0928b759240833bb",
   "lastOpenFiles": [
+    "zettelkasten/202510230627 - Design Patterns.md",
+    "zettelkasten/202510240635 - Patterns - Abstract Factory.md",
+    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
+    "zettelkasten/202510090642 - SOLID.md",
+    "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "_src/_TODO_.md",
+    "_src/_tags-database_.md",
+    "_src/_note template_.md",
     "zettelkasten/202510220620 - Clean Code.md",
     "zettelkasten/202510220710 - Clean Code - Tratamento de Erros.md",
     "zettelkasten/202510220658 - Clean Code - Boas práticas.md",
@@ -207,14 +243,8 @@
     "zettelkasten/202510220628 - Clean Code - Desculpas e Verdades.md",
     "zettelkasten/202510220646 - Clean Code - Como medir um bom código.md",
     "zettelkasten/202510220657 - Clean Code - Como escrever bons nomes.md",
-    "zettelkasten/202510090642 - SOLID.md",
-    "_src/_tags-database_.md",
-    "_src/_TODO_.md",
-    "_src/_note template_.md",
     "zettelkasten/202510210651 - DI - N Classes 1 Interface.md",
     "zettelkasten/202510181406 - DI - Injeção de Dependência.md",
-    "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
-    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
     "zettelkasten/202510170652 - SOLID - Dependency Inversion Principle (DIP).md",
     "zettelkasten/202510150620 - SOLID - Liskov Substitution Principle (LSP).md",
     "zettelkasten/202510170631 - SOLID - Interface Segregation Principle (ISP).md",
@@ -224,8 +254,6 @@
     "zettelkasten/202510210635 - DI - Property Injection.md",
     "zettelkasten/202510210622 - DI - Registro de Generics.md",
     "zettelkasten/202510200648 - DI - Ciclos de Vida.md",
-    "zettelkasten/202510200611 - DI - Exemplo Real.md",
-    "zettelkasten/202510140621 - Csharp - Extension Methods.md",
     "Untitled.base",
     "_src",
     "tags_database",

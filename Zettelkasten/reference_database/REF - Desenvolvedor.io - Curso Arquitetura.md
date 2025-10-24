@@ -6,8 +6,8 @@ Programação Profissional com Clean Code
 	OOP [[202510030654 - OOP]]
 	SOLID [[202510090642 - SOLID]]
 	Dependency Injection [[202510181406 - DI - Injeção de Dependência]]
-	Clean Code
-	Design Patterns
+	Clean Code [[202510220620 - Clean Code]]
+	Design Patterns [[202510230627 - Design Patterns]]
 	Arquitetura de Software
 Fundamentos de Arquitetura de Software
 Projetando Arquitetura em Três Camadas
