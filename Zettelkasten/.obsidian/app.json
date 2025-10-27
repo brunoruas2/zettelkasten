@@ -1,5 +1,7 @@
 {
   "livePreview": true,
   "alwaysUpdateLinks": true,
-  "vimMode": true
+  "vimMode": true,
+  "readableLineLength": true,
+  "promptDelete": false
 }

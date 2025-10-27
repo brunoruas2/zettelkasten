@@ -13,7 +13,7 @@ TODO - O curso não abarca todos eles então vou ter que preencher as lacunas po
 
 Temos um agrupamento dos patterns em famílias:
 1. Creational Patterns - Foco na criação de objetos
-	1. Abstract Factory
+	1. Abstract Factory [[202510240635 - Patterns - Abstract Factory]]
 	2. Builder
 	3. Factory Method
 	4. Prototype
