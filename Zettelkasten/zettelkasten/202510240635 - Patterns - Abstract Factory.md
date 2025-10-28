@@ -15,8 +15,12 @@ O objetivo desse pattern é criar uma interface de criação de famílias de obj
 - Os produtos de cada família devem ser usados juntos (deve ter uma trava para misturar classes de diferentes famílias)
 - Os produtos devem ser expostos aos clientes por meio de uma class library revelando apenas as interfaces dos mesmos em implementação
 
-Estrutura do partern
+Principais características:
+- O client só depende de abstrações (tanto de produtos quanto de fábricas)
+
+Estrutura do pattern usando [[202510251523 - UML - Padrão de Notação]]
 ![[abstract_factory.svg]]
+Aqui tem um exemplo em python -> [[202510280654 - Exemplo de Abstract Factory]]
 # Footer / Reference
 [[REF - Desenvolvedor.io - Curso Arquitetura]]
 https://www.dofactory.com/net/design-patterns

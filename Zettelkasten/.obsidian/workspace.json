@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "3a3ed7f3c852a949",
+            "id": "a24ec6aaf8b576f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,19 +50,35 @@
             }
           },
           {
-            "id": "1e2ba611e9d68666",
+            "id": "987a453f94bd1093",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "_src/diagrams/abstract_factory.svg"
+                "file": "zettelkasten/202510280654 - Exemplo de Abstract Factory.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "abstract_factory.svg"
+              "title": "202510280654 - Exemplo de Abstract Factory"
+            }
+          },
+          {
+            "id": "9c06d9ac68357fbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zettelkasten/202510280654 - Exemplo de Abstract Factory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "202510280654 - Exemplo de Abstract Factory"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,11 +227,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "3a3ed7f3c852a949",
+  "active": "987a453f94bd1093",
   "lastOpenFiles": [
-    "zettelkasten/202510230627 - Design Patterns.md",
-    "_src/diagrams/abstract_factory.svg",
     "zettelkasten/202510240635 - Patterns - Abstract Factory.md",
+    "zettelkasten/202510280654 - Exemplo de Abstract Factory.md",
+    "_src/diagrams/abstract_factory.svg",
+    "zettelkasten/202510230627 - Design Patterns.md",
+    "zettelkasten/202510251523 - UML - Padrão de Notação.md",
     "zettelkasten/Untitled Diagram.svg",
     "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
     "reference_database/REF - Tecnólogo PUC-MG.md",
@@ -224,11 +242,9 @@
     "_src/diagrams",
     "Excalidraw/Drawing 2025-10-27 07.00.20.excalidraw.md",
     "Excalidraw",
-    "zettelkasten/202510251523 - UML - Padrão de Notação.md",
     "Untitled Diagram.svg",
     "_src/diagrams",
     "Excalidraw/Drawing 2025-10-25 16.28.11.excalidraw.md",
-    "zettelkasten/Untitled.md",
     "_src/_note template_.md",
     "zettelkasten/202510220710 - Clean Code - Tratamento de Erros.md",
     "zettelkasten/202510090642 - SOLID.md",
