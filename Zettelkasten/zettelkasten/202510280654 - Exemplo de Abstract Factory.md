@@ -7,83 +7,178 @@
 # Body
 [[202510240635 - Patterns - Abstract Factory]]
 
-```python
-from abc import ABC, abstractmethod
+Para dar mais senso de aprendizado ao pattern de abstract factory, vou usar um exemplo de criação de equipamentos para personagens em um jogo (WoW).
 
-# ----- Abstract Products -----
-class Chair(ABC):
-    @abstractmethod
-    def sit_on(self):
-        pass
+Cada personagem possui uma classe: Humano, Orc ou Mago. Cada classe possui diferente armor e weapons.
 
-class Sofa(ABC):
-    @abstractmethod
-    def lie_on(self):
-        pass
+Já conseguimos ver que temos uma relação de variação de equipamentos e classes baseada na classe. Cenário ideal para uso desse pattern.
 
+Primeiro vamos criar os objetos finais (armor e weapons) e depois ir construindo nossa factory para, no final, criarmos nossa factory abstrata.
 
-# ----- Concrete Products -----
-class VictorianChair(Chair):
-    def sit_on(self):
-        return "Você se senta em uma cadeira vitoriana elegante."
+```typescript
+// interface das weapon
+export interface Weapon {
+  usefulFunction(): string;
+}
 
-class ModernChair(Chair):
-    def sit_on(self):
-        return "Você se senta em uma cadeira moderna minimalista."
+// weapons
+import { Weapon } from "./weapon.interface";
 
-class VictorianSofa(Sofa):
-    def lie_on(self):
-        return "Você deita em um sofá vitoriano luxuoso."
+// humano
+export class Sword implements Weapon {
+  public usefulFunction(): string {
+    return "The result of the Sword";
+  }
+}
 
-class ModernSofa(Sofa):
-    def lie_on(self):
-        return "Você deita em um sofá moderno e confortável."
+// orc
+export class Axe implements Weapon {
+  public usefulFunction(): string {
+    return "The result of the Axe";
+  }
+}
 
+// mago
+export class MageFireball implements Weapon {
+  public usefulFunction(): string {
+    return "The result of the MageFireball";
+  }
+}
+```
 
-# ----- Abstract Factory -----
-class FurnitureFactory(ABC):
-    @abstractmethod
-    def create_chair(self) -> Chair:
-        pass
+Agora vamos fazer a mesma lógica para armor.
 
-    @abstractmethod
-    def create_sofa(self) -> Sofa:
-        pass
+```typescript
+// interface de armor
+import { Weapon } from "../weapons/weapon.interface";
 
+export interface Armor {
+  usefulFunction(): string;
+  usefulFunctionWithWeapon(collaborator: Weapon): string; // armor e weapon juntos
+}
 
-# ----- Concrete Factories -----
-class VictorianFurnitureFactory(FurnitureFactory):
-    def create_chair(self) -> Chair:
-        return VictorianChair()
+// armors
+import { Armor } from "./armor-interface";
 
-    def create_sofa(self) -> Sofa:
-        return VictorianSofa()
+// humano
+export class BodyArmor implements Armor {
+  public usefulFunction(): string {
+    return "The result of the BodyArmor";
+  }
 
-class ModernFurnitureFactory(FurnitureFactory):
-    def create_chair(self) -> Chair:
-        return ModernChair()
+  public usefulFunctionWithWeapon(collaborator: Weapon): string {
+    const result = collaborator.usefulFunction();
+    return `The result of the BodyAmor collaborating with the (${result})`;
+  }
+}
 
-    def create_sofa(self) -> Sofa:
-        return ModernSofa()
+// orc
+export class OrcArmor implements Armor {
+  public usefulFunction(): string {
+    return "The result of the OrcArmor";
+  }
 
+  public usefulFunctionWithWeapon(collaborator: Weapon): string {
+    const result = collaborator.usefulFunction();
+    return `The result of the OrcAmor collaborating with the (${result})`;
+  }
+}
 
-# ----- Client Code -----
-def client_code(factory: FurnitureFactory):
-    chair = factory.create_chair()
-    sofa = factory.create_sofa()
+// mago
+export class Cloak implements Armor {
+  public usefulFunction(): string {
+    return "The result of the Cloak";
+  }
 
-    print(chair.sit_on())
-    print(sofa.lie_on())
+  public usefulFunctionWithWeapon(collaborator: Weapon): string {
+    const result = collaborator.usefulFunction();
+    return `The result of the Cloak collaborating with the (${result})`;
+  }
+}
+```
 
+Agora que temos os "produtos" vamos criar as factories. São as factories que vão definir **quais** produtos serão criados.
 
-# ----- Testando -----
-if __name__ == "__main__":
-    print("Móveis vitorianos:")
-    client_code(VictorianFurnitureFactory())
+```typescript
+// interface
+import { Armor } from "./armor/armor-interface";
+import { Weapon } from "./weapons/weapon.interface";
 
-    print("\nMóveis modernos:")
-    client_code(ModernFurnitureFactory())
+export interface AbstractFactory {
+  createWeapon(): Weapon;
+  createArmor(): Armor;
+}
+
+// factories
+import { AbstractFactory } from "./abstract-factory";
+import { Armor } from "./armor/armor-interface";
+import { BodyArmor } from "./armor/body-armor.model";
+import { Sword } from "./weapons/sword.model";
+import { Weapon } from "./weapons/weapon.interface";
+
+// humano
+export class WarriorFactory implements AbstractFactory {
+  public createWeapon(): Weapon {
+    return new Sword();
+  }
+
+  public createArmor(): Armor {
+    return new BodyArmor();
+  }
+}
+
+// orc
+export class OrcFactory implements AbstractFactory {
+  public createWeapon(): Weapon {
+    return new Axe();
+  }
+
+  public createArmor(): Armor {
+    return new OrcArmor();
+  }
+}
+
+// mago
+export class MageFactory implements AbstractFactory {
+  public createWeapon(): Weapon {
+    return new MageFireball();
+  }
+
+  public createArmor(): Armor {
+    return new Cloak();
+  }
+}
+```
+
+Agora temos tudo necessário para aplicar nosso pattern.
+
+```typescript
+import { AbstractFactory } from "./abstract-factory";
+import { MageFactory } from "./mage-factory";
+import { OrcFactory } from "./orc-factory";
+import { WarriorFactory } from "./warrior-factory";
+
+function clientCode(factory: AbstractFactory) {
+  const sword = factory.createWeapon();
+  const armor = factory.createArmor();
+
+  console.log(armor.usefulFunction());
+  console.log(armor.usefulFunctionWithWeapon(sword));
+}
+
+console.log("Client: WarriorFactory");
+clientCode(new WarriorFactory());
+
+console.log("----------------");
+
+console.log("Client: OrcFactory");
+clientCode(new OrcFactory());
+
+console.log("----------------");
+
+console.log("Client: MageFactory");
+clientCode(new MageFactory());
 ```
 
 # Footer / Reference
-GPT
+https://dev.to/carlillo/understanding-design-patterns-abstract-factory-23e7

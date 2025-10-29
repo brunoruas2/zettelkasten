@@ -15,9 +15,9 @@ Temos um agrupamento dos patterns em famílias:
 1. Creational Patterns - Foco na criação de objetos
 	1. Abstract Factory [[202510240635 - Patterns - Abstract Factory]]
 	2. Builder
-	3. Factory Method
+	3. Factory Method [[202510290617 - Patterns - Factory Method]]
 	4. Prototype
-	5. Sigleton
+	5. Singleton
 2. Structural Patterns - Foco na composição de objetos
 	1. Adapter
 	2. Bridge
@@ -44,3 +44,4 @@ Temos um agrupamento dos patterns em famílias:
 [[REF - Desenvolvedor.io - Curso Arquitetura]]
 https://www.dofactory.com/net/design-patterns
 https://refactoring.guru/design-patterns
+https://dev.to/carlillo/series/540 (peguei os exemplos daqui)
