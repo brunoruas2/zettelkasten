@@ -22,7 +22,7 @@ Principais características:
 
 Estrutura do pattern usando [[202510251523 - UML - Padrão de Notação]]
 ![[abstract_factory.svg]]
-Aqui tem um exemplo em python -> [[202510280654 - Exemplo de Abstract Factory]]
+Aqui tem um exemplo em JS-> [[202510280654 - Exemplo de Abstract Factory]]
 # Footer / Reference
 [[REF - Desenvolvedor.io - Curso Arquitetura]]
 https://www.dofactory.com/net/design-patterns

@@ -9,7 +9,7 @@ Patterns são abstrações de implementação de código que a Gang of Four (Eri
 
 O objetivo de um pattern é não reinventar a roda e precisam ser conhecidos para otimizar o desenho de soluções na hora de iniciar um projeto ou feature.
 
-TODO - O curso não abarca todos eles então vou ter que preencher as lacunas por conta própria depois.
+#TODO - O curso não abarca todos eles então vou ter que preencher as lacunas por conta própria depois.
 
 Temos um agrupamento dos patterns em famílias:
 1. Creational Patterns - Foco na criação de objetos
