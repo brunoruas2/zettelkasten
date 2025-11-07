@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a9e36f9766dd989",
+        "id": "995d398e3a9ff2e6",
         "type": "tabs",
         "children": [
           {
-            "id": "f1d3456e1d85b261",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202510230627 - Design Patterns.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202510230627 - Design Patterns"
-            }
-          },
-          {
-            "id": "1a2bdddf34143237",
+            "id": "f5b2812a73202c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +22,7 @@
             }
           },
           {
-            "id": "d393d06cd49297a1",
+            "id": "91b340e9326f7f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,34 +36,21 @@
             }
           },
           {
-            "id": "6fa8f7c99e60a0cb",
+            "id": "06d71f6436a82a6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zettelkasten/202510240635 - Patterns - Abstract Factory.md",
+                "file": "zettelkasten/202511070629 - Patterns - Singleton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202510240635 - Patterns - Abstract Factory"
-            }
-          },
-          {
-            "id": "3f16a5b6bd99913e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zettelkasten/202511030704 - Exemplo de Factory Method.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202511030704 - Exemplo de Factory Method"
+              "title": "202511070629 - Patterns - Singleton"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -226,26 +198,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "f1d3456e1d85b261",
+  "active": "06d71f6436a82a6e",
   "lastOpenFiles": [
-    "zettelkasten/202510200648 - DI - Ciclos de Vida.md",
-    "_src/_tags-database_.md",
+    "zettelkasten/202510230627 - Design Patterns.md",
+    "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "_src/diagrams/singleton.svg",
+    "zettelkasten/202511070629 - Patterns - Singleton.md",
+    "zettelkasten/202510290617 - Patterns - Factory Method.md",
     "zettelkasten/202510240635 - Patterns - Abstract Factory.md",
     "zettelkasten/202511030704 - Exemplo de Factory Method.md",
-    "reference_database/REF - Desenvolvedor.io - Curso Arquitetura.md",
+    "zettelkasten/202510280654 - Exemplo de Abstract Factory.md",
+    "zettelkasten/202510251523 - UML - Padrão de Notação.md",
+    "zettelkasten/202511060636 - Patterns -.md",
+    "zettelkasten/202510200648 - DI - Ciclos de Vida.md",
+    "_src/_tags-database_.md",
     "zettelkasten/202510030654 - OOP.md",
     "zettelkasten/202510060701 - OOP - Abstração.md",
     "zettelkasten/202510070631 - OOP - Encapsulamento.md",
     "zettelkasten/202510060649 - OOP - Herança.md",
     "zettelkasten/202510070613 - OOP - Polimorfismo.md",
-    "zettelkasten/202510290617 - Patterns - Factory Method.md",
-    "zettelkasten/202510280654 - Exemplo de Abstract Factory.md",
-    "zettelkasten/202510230627 - Design Patterns.md",
     "_src/diagrams/abstract_factory.svg",
     "_src/_TODO_.md",
     "_src/diagrams/factory_method.svg",
     "_src/diagrams/Untitled.md",
-    "zettelkasten/202510251523 - UML - Padrão de Notação.md",
     "_src/_note template_.md",
     "zettelkasten/Untitled Diagram.svg",
     "reference_database/REF - Tecnólogo PUC-MG.md",
@@ -258,9 +233,6 @@
     "zettelkasten/202510220710 - Clean Code - Tratamento de Erros.md",
     "zettelkasten/202510090642 - SOLID.md",
     "zettelkasten/202510220657 - Clean Code - Como escrever bons nomes.md",
-    "zettelkasten/202510220628 - Clean Code - Desculpas e Verdades.md",
-    "zettelkasten/202510220706 - Clean Code - Comentários no Código.md",
-    "zettelkasten/202510140612 - SOLID - Open Closed Principle (OCP).md",
     "Untitled.base",
     "_src",
     "tags_database",

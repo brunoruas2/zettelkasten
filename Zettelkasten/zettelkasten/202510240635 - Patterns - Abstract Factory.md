@@ -7,7 +7,7 @@
 # Body
 [[202510230627 - Design Patterns]]
 
-O objetivo desse pattern é criar uma interface de criação de famílias de objetos relacionados/dependentes sem implementar as classes concretas. A ideia principal é garantir que os objetos finais (chamados de produtos) sejam todos de um mesmo grupo (que vai ser definido pela factory).
+Criar uma interface para criação de **famílias de objetos** relacionados ou dependentes sem a necessidade de especificar as classes concretas.
 
 É indicado quando:
 - Um sistema de ser independente de como seus produtos são criados, compostos e representados

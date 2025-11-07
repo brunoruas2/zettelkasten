@@ -7,13 +7,17 @@
 # Body
 [[202510230627 - Design Patterns]]
 
+O objetivo é criar uma interface para criação de objetos mas deixando as subclasses decidir qual objeto será instanciado.
+
 Parece uma versão mais simples do [[202510240635 - Patterns - Abstract Factory]] só que em 1 camada só. A ideia aqui é criar uma classe/interface que é responsável por criar os objetos para a classe cliente (assim não precisamos lidar com o construtor).
 
-A ideia aqui é centralizar o trabalho de criar classes deixando todas as [[202510181406 - DI - Injeção de Dependência]] padronizadas (como logger, por exemplo) e, ao mesmo tempo, reduzir a complexidade de expansão do sistema porque o overhead de criação está centralizado em uma classe.
+A ideia aqui é centralizar o trabalho de criar classes deixando todas as [[202510181406 - DI - Injeção de Dependência]] padronizadas (como logger, por exemplo) e, ao mesmo tempo, reduzir a complexidade de expansão do sistema porque o controle de criação está centralizado em uma classe.
 
 É indicado quando:
 - Não se sabe a priori os tipos de objetos que o client precisa usar.
+- Existe a possibilidade de novos tipos de objetos serem necessários.
 
+Estrutura do pattern
 ![[factory_method.svg]]
 
 Partes principais:

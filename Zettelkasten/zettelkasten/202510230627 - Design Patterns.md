@@ -17,25 +17,25 @@ Temos um agrupamento dos patterns em famílias:
 	2. Builder
 	3. Factory Method [[202510290617 - Patterns - Factory Method]]
 	4. Prototype
-	5. Singleton
+	5. Singleton [[202511070629 - Patterns - Singleton]]
 2. Structural Patterns - Foco na composição de objetos
-	1. Adapter
+	1. Adapter x
 	2. Bridge
-	3. Composite
+	3. Composite x
 	4. Decorator
-	5. Facade
+	5. Facade x
 	6. Flyweight
 	7. Proxy
 3. Behavioral Patterns - Foco na interação e comunicação entre objetos
 	1. Chain of Responsibility
-	2. Command
+	2. Command x
 	3. Interpreter
 	4. Iterator
 	5. Mediator
 	6. Memento
-	7. Observer
+	7. Observer x
 	8. State
-	9. Strategy
+	9. Strategy x
 	10. Template Method
 	11. Visitor
 
